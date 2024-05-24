@@ -10,3 +10,5 @@ https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset
 They represents flight data from over 8 companies, containing 32 columns of information with varying utility.
 
 The project contains a POWER Bi report and a jupyter notebook file.
+
+Due to the fact that the POWER BI report was too large of a file, the added report contains half the data (which might mean it might miss some information). The presentation will be done using the entire dataset.
